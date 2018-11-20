@@ -1,0 +1,10 @@
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Reflection\bin\Debug\Hellper.dll
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Reflection\bin\Debug\Hellper.pdb
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Reflection\obj\Debug\Reflection.csproj.CopyComplete
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Reflection\obj\Debug\Reflection.pdb

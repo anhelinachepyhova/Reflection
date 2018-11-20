@@ -1,0 +1,6 @@
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Hellper\bin\Debug\Hellper.dll
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Hellper\bin\Debug\Hellper.pdb
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Hellper\obj\Debug\Hellper.csprojAssemblyReference.cache
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Hellper\obj\Debug\Hellper.csproj.CoreCompileInputs.cache
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Hellper\obj\Debug\Hellper.dll
+C:\Users\Anhelina\Desktop\Reflectoin\Reflection\Hellper\obj\Debug\Hellper.pdb

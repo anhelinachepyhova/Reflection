@@ -1,0 +1,13 @@
+Car;q;12.12.1222 0:00:00;12; 
+People;qqq;aaa;23; 
+People;www;sss;34; 
+Animal;qwe;asd;zc; 
+Animal;wer;sdf;xcv; 
+Animal;ert;dfg;cvb; 
+Car; q; 12.12.1222 0:00:00; 12; 
+People; qqq; aaa; 23; 
+People; www; sss; 34; 
+Animal; qwe; asd; zc; 
+Animal; wer; sdf; xcv; 
+Animal; ert; dfg; cvb; 
+Car; 3; 03.04.4555 0:00:00; 2; 
